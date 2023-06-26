@@ -1,2 +1,3 @@
 # onnx-cookbook
-onnx messer
+onnx messer  
+onnx compare  
